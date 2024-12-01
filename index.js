@@ -27,4 +27,5 @@ if (xp < 1000) {
 }
 
 // Exibir a mensagem final
-console.log(`O Herói de nome ${super dev} está no nível de ${nivel}`);
+console.log(`O Herói de nome ${nome} está no nível de ${nivel}`);
+
